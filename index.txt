@@ -1,0 +1,38 @@
+<html>    
+ <head> <title> Резюме </title>
+     </head>
+       <body style="background: #FFFACD;"> 
+<H1 ALIGN=CENTER> Менің парақшам </H1>
+  <FONT style="color:#696969;"><MARQUEE [ALIGN="align"][BEHAVIOR="behavior"][BGCOLOR="#rrggbb"][DIRECTION="direction"][HEIGHT="integer"][HSPACE="integer"][LOOP="integer"][SCROLLDELLAY="integer"][VSPACE="integer"][WIDTH="integer"]> <H2>&amp Бақтыбаев Әлжан &amp </H2> </MARQUEE></ FONT><BR >
+           <P> <FONT COLOR="#008000">
+<font size="+3">Өзім туралы мәлімет:</font> 
+</ FONT><BR > </P>
+<HR SIZE=6 WIDTH=82% FONT COLOR="#0000FF"></ FONT><BR > 
+<P><table border="1" bordercolor="red" cellpadding="0" cellspacing="0" width="100%" bgcolor="#f6f6f6">
+
+<tr><td height="40" width="20"  bgcolor="#FFCC33" colspan="2" valign="top"> 
+1)Мен <a href="Aktobe.html"  title="екінші бет" >  Ақтөбе </a> облысы Темір ауданы Шұбарқұдық кентінде 2004 жылы дүниеге келдім.<BR></ FONT><BR > 
+<FONT style="color:#66CDAA;"></td></tr>
+<tr><td height="40" width="20" bgcolor="#FFCC33" colspan="2" valign="top"> 2)1-9 сыныпты Шұбарқұдық кентінде, ал 10-11 сыныпты Ақтөбе облыстық мамандандырылған физика-математика мектеп интернатында оқыдым.<BR></ FONT><BR > 
+<FONT style="color:#FF0000;"></td></tr>
+<tr><td height="40" width="20" bgcolor="#FFCC33" colspan="2" valign="top"> 3)Қ.И.Сатпаев атындағы Қазақ Ұлттық зерттеу техникалық университетінде 2 курс студентімін.<a href="Frimer.html"    title="екінші бет"> Satbayev </a><BR></ FONT><BR > 
+<FONT style="color:#BDB76B;"></td></tr>
+<tr><td height="40" width="20" bgcolor="#FFCC33" colspan="2" valign="top"> 4)Ал мамандығыма келетін болсам Ақпараттық қауіпсіздік мамандығы.<a href="Tab.html"  title="екінші бет"> Расписания </a><BR></ FONT><BR > 
+<FONT style="color:#00BFFF;"></td></tr>
+<tr><td height="40" width="20" bgcolor="#FFCC33" colspan="2" valign="top"> 5)Отбасымда 8 адамбыз:</ FONT><BR > 
+<FONT style="color:#20B2AA;">
+</td></tr>
+</table>
+<OL type="I" start="1">
+<FONT style="color:#20B2AA;">
+<MARQUEE [ALIGN="align"][BEHAVIOR="behavior"][BGCOLOR="#rrggbb"][DIRECTION="LEFT"][HEIGHT="integer"][HSPACE="integer"][LOOP="integer"][SCROLLDELLAY="integer"][VSPACE="integer"][WIDTH="integer"]><FONT COLOR="#00BFFF"> <LI>Атам,</LI> </ FONT>
+<FONT style="color:#66CDAA;"><LI>Әжем,</LI></ FONT>
+<FONT style="color:#FF0000;"><em><LI>Әкем,</LI></em></ FONT>
+<FONT style="color:#BDB76B;"><u><LI>Анам,</LI></u></ FONT>
+<FONT style="color:#00BFFF;"><LI>Мен,</LI></ FONT>
+<FONT style="color:#FF0000;"><LI>2 інім және қарындасым бар.</LI></ FONT><OL><BR></font> </MARQUEE>
+</ FONT><BR > </P>
+
+<HR SIZE=6 WIDTH=85% FONT COLOR="#0000FF"></ FONT><BR > </head>
+</body>
+   </html>

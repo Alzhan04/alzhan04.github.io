@@ -1,0 +1,93 @@
+<html>    
+ <head> <title> Резюме </title>
+     </head>
+ <body>
+<script>
+var person;
+if (confirm("Kelesi parakshaga otesizbe?")){
+person=prompt("Esiminiz?");
+alert("WELCOME,"+ person);
+} else {
+alert("keri kaity");}
+</script>
+<table>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> Уақыт </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Дүйсенбі </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Сейсенбі </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Сәрсенбі </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Бейсенбі </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Жұма </center> </td>
+<td width="250" bgcolor="#66CDAA"> <center> Сенбі </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 7:50-8:40 </center> </td>
+<td width="250" bgcolor="#E0FFFF"> <center> </center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="7"> <center> </center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="6"> <center> </center> </td>
+<td width="250" bgcolor="#00BFFF"rowspan="2"> <center>  Дискретная математика Егисбаев Н.О. (Лекция) </center> </td>
+<td width="250" bgcolor="#00FF00"rowspan="11"> <center> ОТДЫХАЕМ! </center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="5"> <center> </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 8:55-9:45 </center> </td>
+<td width="250" bgcolor="#FF69B4"rowspan="2"> <center> Физическая культура III
+Cагындыков Р.Ш (Практика) </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 10:00-10:50 </center> </td>
+<td width="250" bgcolor="#E0FFFF"> <center> </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 11:05-11:55 </center> </td><td width="250" bgcolor="#E0FFFF"rowspan="2"> <center>  </center> </td>
+<td width="250" bgcolor="#00BFFF"rowspan="2"> <center>  Микроэлектроника Жунусов К.Х (Лекция) </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 12:10-13:00 </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 13:15-14:05 </center> </td>
+<td width="250" bgcolor="#FF69B4"> <center> Введение в Web программирование
+Жекамбаева М.Н. (Практика) </center> </td>
+<td width="250" bgcolor="#E0FFFF"> <center>  </center> </td>
+<td width="250" bgcolor="#00BFFF"> <center> Социология Есбергенова Г.Б. Лекция </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 14:20-15:10 </center> </td>
+<td width="250" bgcolor="#E0FFFF"> <center>  </center> </td>
+<td width="250" bgcolor="#FFA500"rowspan="2"> <center>  Информационно-коммуникационные технологии
+Жекамбаева М.Н. (Лаб) </center> </td>
+<td width="250" bgcolor="#FF69B4"> <center> Дискретная математика Егисбаев Н.О. (Практика) </center> </td>
+<td width="250" bgcolor="#00BFFF"> <center> Введение в Web программирование
+Жекамбаева М.Н. (Лекция) </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 15:25-16:15 </center> </td>
+<td width="250" bgcolor="#FF69B4"rowspan="2"> <center> Математика III
+Сейткулова Ж.Н. (Практика) </center> </td>
+<td width="250" bgcolor="#00BFFF"> <center> Экология и устойчивое развитие Нурулдаева Г.Ж. (Лекция) </center> </td>
+<td width="250" bgcolor="#00BFFF"> <center> Математика III
+Толганбаев А.Ж. (Лекция)</center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="2"> <center> </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 16:30-17:20 </center> </td>
+<td width="250" bgcolor="#FFA500"rowspan="2"> <center> Микроэлектроника Джобалаева Г.С. (Лаб) </center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="3"> <center> </center> </td>
+<td width="250" bgcolor="#E0FFFF"rowspan="3"> <center> </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 17:30-18:20 </center> </td>
+<td width="250" bgcolor="#FFA500"rowspan="2"> <center>  Введение в Web программирование
+Жекамбаева М.Н. (Лаб) </center> </td>
+<td width="250" bgcolor="#00BFFF"rowspan="2"> <center>  Информационно-коммуникационные технологии
+Молдагулова А.Н. (Лекция) </center> </td>
+</tr>
+<tr>
+<td height="50" width="130" bgcolor="#66CDAA"> <center> 18:30-19:20 </center> </td>
+<td width="250" bgcolor="#E0FFFF"> <center></center> </td>
+</tr>
+</table>
+<H1><center>  <a href="index.html"   title="екінші бет"> Кері қайту </a></center></H1>
+</body>
+   </html>

@@ -1,0 +1,12 @@
+img:hover {
+filter:grayscale(80%);черно белый;
+/filter:blur(2px);
+/filter:drop-shadow(5px 6px 4px rgba(0, 0, 0, 0.5));тень;
+/filter:brightness(150%);яркый;
+/filter:contrast(70%);
+/filter:hue-rotate(170deg);градус;
+/filter:invert(100%);плёночный фотография;
+/filter:saturate(300%);әдемілеу көрсетеді;
+/filter:sepia(100%);старый фото;
+/filter:opacity(50%);прозрачный;
+}
